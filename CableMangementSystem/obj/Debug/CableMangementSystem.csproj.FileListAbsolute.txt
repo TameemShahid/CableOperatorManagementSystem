@@ -1,0 +1,37 @@
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\CableMangementSystem.exe.config
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\CableMangementSystem.exe
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\CableMangementSystem.pdb
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.AddInventory.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.BillingHistory.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.Properties.Resources.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.csproj.GenerateResource.Cache
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.exe
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.pdb
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.City.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.NewConnCharges.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.EditConnCharges.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.PendingConnections.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.Area.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.Block.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.Payment.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.ShowInventory.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.csprojResolveAssemblyReference.cache
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.StaffPortal.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.LoginForm.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.ReportForm.resources
+D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.ReportEach.resources
+D:\CableMangementSystem\CableMangementSystem\bin\Debug\CableMangementSystem.exe.config
+D:\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.exe
+D:\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.pdb
