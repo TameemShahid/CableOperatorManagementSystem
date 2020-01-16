@@ -14,12 +14,16 @@ namespace CableMangementSystem
     public partial class ReportForm : Form
     {
         string user_id = "";
+        List<History> usersHistory;
+        History user;
+
         public ReportForm()
         {
             InitializeComponent();
             dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             LoadDataGridView();
-
+            user = new History();
+            usersHistory = new List<History>();
         }
 
 
@@ -57,17 +61,24 @@ namespace CableMangementSystem
                 cmd.Parameters.Add(new SqlParameter("@USERID", user_id));
 
                 SqlDataReader reader;
-                string user = " ";
-
+                
                 reader = cmd.ExecuteReader();
                 while(reader.Read())
                 {
-                    user = reader["NAME"].ToString();
+                    user.HistoryId = int.Parse(reader["HISTORY_ID"].ToString());
+                    user.UserId =  int.Parse(reader["USER_ID"].ToString());
+                    user.Name = reader["NAME"].ToString();
+                    user.HouseNo = reader["HOUSE"].ToString();
+                    user.Payment = int.Parse(reader["PAYMENT"].ToString());
+                    user.ReceivedBy = reader["RECEIVED BY"].ToString();
+                    user.Month = reader["MONTH"].ToString();
+                    //#    user.Status = int.Parse(reader["STATUS"].ToString());
+                    usersHistory.Add(user);
                 }
 
                 // generate report from above information
-                ReportEach report = new ReportEach(user);
-                report.ShowDialog();
+                GenReport report = new GenReport();
+                report.CreateDocument("Cable Coporation", "Billing History",usersHistory);
 
                 conn.Close(); 
             }

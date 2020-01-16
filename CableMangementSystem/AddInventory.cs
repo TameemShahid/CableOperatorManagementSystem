@@ -63,12 +63,11 @@ namespace CableMangementSystem
                     cmd.Parameters.Add(new SqlParameter("@ITEM_NAME", textBox1.Text));
                     cmd.Parameters.Add(new SqlParameter("@QTY", numericUpDown1.Value));
                     cmd.ExecuteReader();
+                    MessageBox.Show("Item successfully added!");
+                    textBox1.Text = "";
+                    numericUpDown1.Value = 0;
                 }
                 conn.Close();
-
-                MessageBox.Show("Item successfully added!");
-                textBox1.Text = "";
-                numericUpDown1.Value = 0;
             }
         }
     }

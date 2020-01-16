@@ -20,6 +20,7 @@ namespace CableMangementSystem
         private void addInventoryToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             Form AddInventory = new AddInventory();
+            AddInventory.WindowState = FormWindowState.Maximized;
             AddInventory.MdiParent = this;
             AddInventory.Show();
         }
@@ -27,6 +28,7 @@ namespace CableMangementSystem
         private void addAreaToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             Form addArea = new Area();
+            addArea.WindowState = FormWindowState.Maximized;
             addArea.MdiParent = this;
             addArea.Show();
         }
@@ -35,6 +37,7 @@ namespace CableMangementSystem
         {
 
             Form billingHistory = new BillingHistory();
+            billingHistory.WindowState = FormWindowState.Maximized;
             billingHistory.MdiParent = this;
             billingHistory.Show();
         }
@@ -42,6 +45,7 @@ namespace CableMangementSystem
         private void addBlockToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             Block blk = new Block();
+            blk.WindowState = FormWindowState.Maximized;
             blk.MdiParent = this;
             blk.Show();
         }
@@ -49,6 +53,7 @@ namespace CableMangementSystem
         private void addCityToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             City city = new City();
+            city.WindowState = FormWindowState.Maximized;
             city.MdiParent = this;
             city.Show();
         }
@@ -56,6 +61,7 @@ namespace CableMangementSystem
         private void addConnectionChargesToolStripMenuItem_Click(object sender, EventArgs e)
         {
             NewConnCharges ncc = new NewConnCharges();
+            ncc.WindowState = FormWindowState.Maximized;
             ncc.MdiParent = this;
             ncc.Show();
         }
@@ -64,6 +70,7 @@ namespace CableMangementSystem
         {
 
             Payment newPayment = new Payment();
+            newPayment.WindowState = FormWindowState.Maximized;
             newPayment.MdiParent = this;
             newPayment.Show();
         }
@@ -72,6 +79,7 @@ namespace CableMangementSystem
         private void editToolStripMenuItem_Click(object sender, EventArgs e)
         {
             EditConnCharges ecc = new EditConnCharges();
+            ecc.WindowState = FormWindowState.Maximized;
             ecc.MdiParent = this;
             ecc.Show();
         }
@@ -81,14 +89,13 @@ namespace CableMangementSystem
         {
 
             ShowInventory showInven = new ShowInventory();
+            showInven.WindowState = FormWindowState.Maximized;
             showInven.MdiParent = this;
             showInven.Show();
         }
 
         private void StaffPortal_Load(object sender, EventArgs e)
         {
-
-            this.reportViewer1.RefreshReport();
         }
 
         private void reportToolStripMenuItem_Click(object sender, EventArgs e)
@@ -97,6 +104,14 @@ namespace CableMangementSystem
             report.WindowState = FormWindowState.Maximized;
             report.MdiParent = this;
             report.Show();
+        }
+
+        private void ShowCityToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ShowCityForm show = new ShowCityForm();
+            show.WindowState = FormWindowState.Maximized;
+            show.MdiParent = this;
+            show.Show();
         }
     }
 }

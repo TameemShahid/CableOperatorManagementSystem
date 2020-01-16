@@ -35,3 +35,103 @@ D:\University Stuff\Database\Project\CableMangementSystem\CableMangementSystem\o
 D:\CableMangementSystem\CableMangementSystem\bin\Debug\CableMangementSystem.exe.config
 D:\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.exe
 D:\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.pdb
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\CableMangementSystem.exe.config
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\CableMangementSystem.exe
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\CableMangementSystem.pdb
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.csprojAssemblyReference.cache
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.AddInventory.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.Area.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.BillingHistory.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.Block.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.City.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.EditConnCharges.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.LoginForm.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.NewConnCharges.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.Payment.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.PendingConnections.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.Properties.Resources.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.ReportForm.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.ShowInventory.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.StaffPortal.resources
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.csproj.GenerateResource.cache
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.csproj.CopyComplete
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.exe
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.pdb
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\MigraDoc.DocumentObjectModel-gdi.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\MigraDoc.Rendering-gdi.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\MigraDoc.RtfRendering-gdi.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp-gdi.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp.Charting-gdi.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\MigraDoc.DocumentObjectModel-gdi.xml
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\MigraDoc.Rendering-gdi.xml
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\MigraDoc.RtfRendering-gdi.xml
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp.xml
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp-gdi.xml
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp.Charting-gdi.xml
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\MigraDoc.DocumentObjectModel-gdi.resources.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\MigraDoc.Rendering-gdi.resources.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\MigraDoc.RtfRendering-gdi.resources.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\PdfSharp-gdi.resources.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\PdfSharp.Charting-gdi.resources.dll
+C:\Users\Kumail\source\repos\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.ShowCityForm.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\CableMangementSystem.exe.config
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.exe
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.pdb
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\CableMangementSystem.exe
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\CableMangementSystem.pdb
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\MigraDoc.DocumentObjectModel-gdi.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\MigraDoc.Rendering-gdi.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\MigraDoc.RtfRendering-gdi.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp-gdi.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp.Charting-gdi.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp.Charting.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\MigraDoc.DocumentObjectModel-gdi.xml
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\MigraDoc.Rendering-gdi.xml
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\MigraDoc.RtfRendering-gdi.xml
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp.xml
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp-gdi.xml
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp.Charting.xml
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\PdfSharp.Charting-gdi.xml
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\MigraDoc.DocumentObjectModel-gdi.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\MigraDoc.Rendering-gdi.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\MigraDoc.RtfRendering-gdi.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\PdfSharp.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\PdfSharp-gdi.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\PdfSharp.Charting-gdi.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.csprojResolveAssemblyReference.cache
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.AddInventory.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.Area.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.BillingHistory.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.Block.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.City.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.EditConnCharges.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.LoginForm.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.NewConnCharges.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.Payment.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.PendingConnections.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.Properties.Resources.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.ReportForm.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.ShowCityForm.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.ShowInventory.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.StaffPortal.resources
+D:\University Stuff\Database\Project\CableOperatorManagementSystem-master\CableMangementSystem\obj\Debug\CableMangementSystem.csproj.GenerateResource.Cache
