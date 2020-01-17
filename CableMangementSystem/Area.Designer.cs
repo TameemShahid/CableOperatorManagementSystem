@@ -87,6 +87,7 @@
             this.savebutton.TabIndex = 5;
             this.savebutton.Text = "Save";
             this.savebutton.UseVisualStyleBackColor = true;
+            this.savebutton.Click += new System.EventHandler(this.savebutton_Click);
             // 
             // Area
             // 
@@ -102,6 +103,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "Area";
             this.Text = "Area";
+            this.Load += new System.EventHandler(this.Area_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

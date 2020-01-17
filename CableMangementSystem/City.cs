@@ -30,24 +30,31 @@ namespace CableMangementSystem
 
         private void savebutton_Click(object sender, EventArgs e)
         {
-            try
+            if(textBox1.Text == "")
             {
-                SqlConnection conn = new SqlConnection("Data Source=TAMEEMTTG;Initial Catalog=CableMDB;Integrated Security=True");
-                conn.Open();
-                SqlCommand cmd = new SqlCommand("ADD_CITY_PROC", conn);
-                cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.Add(new SqlParameter("@CITY_NAME", textBox1.Text));
-
-                cmd.ExecuteNonQuery();
-                conn.Close();
-
-                textBox1.Text = "";
-                MessageBox.Show("City successfully added!");
+                MessageBox.Show("Text box cant be empty!");
             }
-            catch (Exception ex)
+            else
             {
+                try
+                {
+                    SqlConnection conn = new SqlConnection("Data Source=TAMEEMTTG;Initial Catalog=CableMDB;Integrated Security=True");
+                    conn.Open();
+                    SqlCommand cmd = new SqlCommand("ADD_CITY_PROC", conn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.Add(new SqlParameter("@CITY_NAME", textBox1.Text));
 
-                MessageBox.Show("City already exists!");
+                    cmd.ExecuteNonQuery();
+                    conn.Close();
+
+                    textBox1.Text = "";
+                    MessageBox.Show("City successfully added!");
+                }
+                catch (Exception ex)
+                {
+
+                    MessageBox.Show("City already exists!");
+                }
             }
         }
 
