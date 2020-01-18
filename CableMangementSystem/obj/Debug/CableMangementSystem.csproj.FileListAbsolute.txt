@@ -187,3 +187,5 @@ D:\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.Show
 D:\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.ShowInventory.resources
 D:\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.StaffPortal.resources
 D:\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.csproj.GenerateResource.Cache
+D:\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.ShowAreas.resources
+D:\CableMangementSystem\CableMangementSystem\obj\Debug\CableMangementSystem.ShowBlock.resources

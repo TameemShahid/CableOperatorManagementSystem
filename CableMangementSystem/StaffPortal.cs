@@ -113,5 +113,29 @@ namespace CableMangementSystem
             show.MdiParent = this;
             show.Show();
         }
+
+        private void showAreaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ShowAreas area = new ShowAreas();
+            area.WindowState = FormWindowState.Maximized;
+            area.MdiParent = this;
+            area.Show();
+        }
+
+        private void showPendingConnectionsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            PendingConnections pendingConn = new PendingConnections();
+            pendingConn.WindowState = FormWindowState.Maximized;
+            pendingConn.MdiParent = this;
+            pendingConn.Show();
+        }
+
+        private void showBlocksToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ShowBlock ShBlock = new ShowBlock();
+            ShBlock.WindowState = FormWindowState.Maximized;
+            ShBlock.MdiParent = this;
+            ShBlock.Show();
+        }
     }
 }

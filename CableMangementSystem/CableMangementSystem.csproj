@@ -150,6 +150,18 @@
     <Compile Include="ReportForm.Designer.cs">
       <DependentUpon>ReportForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="ShowAreas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowAreas.Designer.cs">
+      <DependentUpon>ShowAreas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowBlock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowBlock.Designer.cs">
+      <DependentUpon>ShowBlock.cs</DependentUpon>
+    </Compile>
     <Compile Include="ShowCityForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -209,6 +221,12 @@
     </Compile>
     <EmbeddedResource Include="ReportForm.resx">
       <DependentUpon>ReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowAreas.resx">
+      <DependentUpon>ShowAreas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowBlock.resx">
+      <DependentUpon>ShowBlock.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ShowCityForm.resx">
       <DependentUpon>ShowCityForm.cs</DependentUpon>
